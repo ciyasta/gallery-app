@@ -1,4 +1,4 @@
-# GalleryApp
+# GalleryApp ![Azure Pipeline](https://dev.azure.com/viveksaurabh/TestProject/_apis/build/status/gallery-app)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.
 
